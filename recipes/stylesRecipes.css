@@ -1,0 +1,19 @@
+.header{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+img{
+    width: 650px;
+    height: auto;
+}
+h2{
+    color: black;
+}
+*{
+    font-family: "Times New Roman", Times, serif;
+}
+p{
+    background-color: black;
+    color: whitesmoke;
+}
