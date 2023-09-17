@@ -2,6 +2,9 @@ h1{
     text-align: center;
     background-color: black;
     color: whitesmoke;
+    width: 500px;
+    margin: 0 auto;
+    border: 3px solid rgb(121, 121, 121);
 }
 button{
     background-color: yellow;
@@ -13,5 +16,14 @@ button{
     font-family: "Times New Roman";
 }
 body{
-    background-color: aqua;
+    background-color: rgb(21, 31, 31);
+}
+
+li{
+    display: inline;
+    margin: auto 6px;
+}
+
+button{
+    padding: 8px 10px;
 }
