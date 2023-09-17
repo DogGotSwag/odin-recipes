@@ -2,36 +2,59 @@
     background-color: black;
     color: whitesmoke;
     text-align: center;
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    border: 2px solid whitesmoke;
 }
 img{
     width: 350px;
     height: auto;
+    border: 2px solid black;
 }
 h2{
-    color: black;
+    width: 300px;
+    height: auto;
+    border: 2px solid whitesmoke;
+    text-align: center;
+
+    margin-left: 16px;
 }
 *{
     font-family: "Times New Roman", Times, serif;
+    color: whitesmoke;
+
 }
 p{
-    background-color: black;
-    color: whitesmoke;
+    
+    padding: 8px 16px;
 }
 body{
-    background-color: aqua;
+    background-color: rgb(21, 31, 31);
+    
 }
 .ImgSection{
-    border: 2px solid red;
+    
     width: 350px;
     height: auto;
+    margin: 0 auto;
+
+   
 }
 
 .desSection{
-    border: 2px solid red;
+    border: 2px solid black;
+    padding: 8px;
+    display: inline-block;
+    margin-bottom: 8px;
+    
 }
 .ingredSection{
-    border: 2px solid red;
+    border: 2px solid black;
+    margin-bottom: 8px;
+
 }
 .stepSection{
-    border: 2px solid red;
+    border: 2px solid black;
 }
